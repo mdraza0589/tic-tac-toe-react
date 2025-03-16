@@ -1,5 +1,5 @@
-import Header from './component/header';
-import Box from './component/box'
+import Header from './component/Header';
+import Box from './component/Box'
 function App() {
 
   return (
